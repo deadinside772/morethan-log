@@ -4,22 +4,22 @@ const CONFIG = {
     name: "Harshit Mahajan",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Finance Enthusiast",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    bio: "Mastering finance with spreadsheets by day, and cooking up a storm in the kitchen by night!",
+    email: "Harshit.mahajan772@gmail.com",
+    linkedin: "harshit--mahajan",
+    github: "",
+    instagram: "harshit_.20",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `My Financial Models and Reports`,
+      href: "https://drive.google.com/drive/folders/1IdwJd7W65062XgPE-UzPQbV0xUWRdlkq?usp=sharing",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "harshit's Copy & Finance",
+    description: "welcome to my Copy & Finance!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
@@ -54,7 +54,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
