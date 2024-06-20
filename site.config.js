@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Harshit Mahajan",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Finance Enthusiast",
-    bio: "Mastering finance with spreadsheets by day, and cooking up a storm in the kitchen by night!",
+    bio: "Mastering finance by day, and Cooking up numbers and dishes by night!",
     email: "Harshit.mahajan772@gmail.com",
     linkedin: "harshit--mahajan",
     github: "",
